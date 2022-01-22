@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
-<h3 align="center">A Passionate Programmer from India</h3>
+<h3 align="center">Passionate to Learn </h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
@@ -14,11 +14,11 @@
 <h3 align="left">Languages</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &emsp; <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &emsp; <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshkumarsingh64&show_icons=true&locale=en&layout=compact" alt="santoshkumarsingh64" /></p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderharsh345&show_icons=true&locale=en&layout=compact" alt="coderharsh345" /></p>
 <br>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshkumarsingh64&show_icons=true&locale=en" alt="santoshkumarsingh64" /></p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderharsh345&show_icons=true&locale=en" alt="coderharsh345" /></p>
 <br>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshkumarsingh64&" alt="santoshkumarsingh64" /></p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderharsh345&" alt="coderharsh345" /></p>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Show some  ❤️  by starring some of the repositories!
 <br>
