@@ -13,7 +13,6 @@
 <br>
 
 <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
-
 [![Linkedin Badge](https://img.shields.io/badge/-Harsh Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-gupta-595002194/)](https://www.linkedin.com/in/harsh-gupta-595002194/)
 
 [![Gmail Badge](https://img.shields.io/badge/-harsh97310@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harsh97310@gmail.com)](mailto:harsh97310@gmail.com)
@@ -43,14 +42,7 @@
          
 
 ---
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderharsh345&show_icons=true&locale=en&layout=compact" alt="coderharsh345" /></p>
-<br>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderharsh345&show_icons=true&locale=en" alt="coderharsh345" /></p>
-<br>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderharsh345&" alt="coderharsh345" /></p>
- 
-
-[![harsh github activity graph](https://activity-graph.herokuapp.com/graph?username=coderharsh345&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+[![harsh github activity graph](https://activity-graph.herokuapp.com/graph?username=coderharsh345&theme=react-dark)](https://github.com/coderharsh345/github-readme-activity-graph)
 
   
 
@@ -59,12 +51,3 @@
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Show some  ❤️  by starring some of the repositories!
 <br>
 </p>
-
-
-[My github stats](https://github-readme-stats.vercel.app/api?username=coderharsh345&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
-
-
-
-
-
- -->
