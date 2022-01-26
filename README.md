@@ -14,7 +14,8 @@
 
 <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Harsh Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-gupta-595002194/)](https://www.linkedin.com/in/harsh-gupta-595002194/)
+[![Linkedin Badge](https://img.shields.io/badge/-HarshGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-gupta-595002194/)](https://www.linkedin.com/in/harsh-gupta-595002194/)
+
 
 [![Gmail Badge](https://img.shields.io/badge/-harsh97310@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harsh97310@gmail.com)](mailto:harsh97310@gmail.com)
 
