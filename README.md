@@ -27,7 +27,7 @@
 
  📶 Stats:<br><br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderharsh345&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderharsh345&theme=dark&layout=compact&align=right&width=40%)](https://github.com/coderharsh345/github-readme-stats)
  
  ---
  
