@@ -2,7 +2,7 @@
 
 🌱 **About myself**<br>
 
-✔️ I am **Harsh Gupta**, currently pursuing my bachelors from Axis Colleges, Kanpur in *Computer and Science Engineering*. <br>
+✔️ I am **Harsh Gupta**, currently working as Assitant Software engineer at Nucleus Software Exports LTD. Done my bachelors from Axis Colleges, Kanpur in *Computer and Science Engineering*. <br>
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing data structure and algorithm. <br>
 
